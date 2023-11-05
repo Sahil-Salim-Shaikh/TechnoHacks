@@ -4,7 +4,7 @@ Develop a program that lets the user play the
 classic game of snake, where the player
 controls a snake that grows in length as it eats
 food.
-<img src="[https://github.com/Sahil-Salim-Shaikh/E_LIBRARY/blob/master/Project_img/Login.png?raw=true](https://github.com/Sahil-Salim-Shaikh/TechnoHacks/blob/main/Java-Snake-Game/snake.png)">
+<img src="(https://github.com/Sahil-Salim-Shaikh/TechnoHacks/blob/main/Java-Snake-Game/snake.png)">
 
 ------------------------------------------
 
